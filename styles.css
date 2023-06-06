@@ -52,7 +52,7 @@ main.component div {
 }
 
 main.component div h1{
-    font-size: calc(1em + 5vw);
+    font-size: 1.5em;
     font-weight: bold;
     color: hsl(218, 44%, 22%);
 }
